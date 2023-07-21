@@ -14,6 +14,7 @@
 | ---------------- | ------- | ------------------ |
 | Debian           | 10      | :white_check_mark: |
 |                  | 11      | :white_check_mark: |
+|                  | 12      | :white_check_mark: |
 | Ubuntu           | 18.04   | :x: |
 |                  | 20.04   | :x: |
 |                  | 22.04   | :x: |
