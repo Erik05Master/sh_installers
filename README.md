@@ -8,16 +8,13 @@
     ./<name>_installer.sh
 
 
-## Supported OS
+## Tested OS
 
-| Operating System | Version | Tested?|
-| ---------------- | ------- | ------------------ |
-| Debian           | 10      | :white_check_mark: |
-|                  | 11      | :white_check_mark: |
-|                  | 12      | :white_check_mark: |
-| Ubuntu           | 18.04   | :x: |
-|                  | 20.04   | :x: |
-|                  | 22.04   | :x: |
+| Operating System | Version |
+| ---------------- | ------- |
+| Debian           | 10      |
+|                  | 11      |
+|                  | 12      |
 
 ## Suggestions
 More suggestions for Sh Installers are welcome! Let us know what programs or tools you'd like to see added. Share your feedback with us!
