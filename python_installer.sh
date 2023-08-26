@@ -13,7 +13,7 @@ sudo apt update && sudo apt upgrade -y
 
 sudo apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev libsqlite3-dev wget libbz2-dev -y
 
-wget https://www.python.org/ftp/python/3.11.4/Python-3.11.4.tgz
+wget https://www.python.org/ftp/python/3.11.5/Python-3.11.5.tgz
 
 tar -xf Python-3.11.*.tgz
 
