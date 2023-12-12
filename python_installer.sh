@@ -29,10 +29,10 @@ cd ~
 
 wget https://bootstrap.pypa.io/get-pip.py
 
-python3.11 get-pip.py
+python3.12 get-pip.py
 
-python3.11 --version
+python3.12 --version
 
 rm -r Python-3.12.*/ Python-3.12.*.tgz get-pip.py
 
-echo -e "\n\n\nPython3.11 and pip has been installed.\n\n\n"
+echo -e "\n\n\nPython3.12 and pip has been installed.\n\n\n"
