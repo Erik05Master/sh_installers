@@ -1,5 +1,5 @@
 #!/bin/bash
-#Installer for PHP8.2, Apache2, MySQL, Composer and phpmyadmin
+#Installer for PHP8.3, Apache2, MySQL, Composer and phpmyadmin
 
 if [[ $EUID -ne 0 ]]; then
    echo "This script must be run as root" 
@@ -18,7 +18,7 @@ echo "deb [signed-by=/usr/share/keyrings/php-archive-keyring.gpg] https://packag
 apt update
 
 apt install apache2 -y
-apt install php8.2 php8.2-cli php8.2-common php8.2-curl php8.2-gd php8.2-intl php8.2-mbstring php8.2-mysql php8.2-opcache php8.2-readline php8.2-xml php8.2-xsl php8.2-zip php8.2-bz2 libapache2-mod-php8.2 -y
+apt install php8.3 php8.3-cli php8.3-common php8.3-curl php8.3-gd php8.3-intl php8.3-mbstring php8.3-mysql php8.3-opcache php8.3-readline php8.3-xml php8.3-xsl php8.3-zip php8.3-bz2 libapache2-mod-php8.3 -y
 apt install mariadb-server mariadb-client -y
 
 cd /usr/share
