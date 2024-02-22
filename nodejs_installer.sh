@@ -16,4 +16,6 @@ sudo apt install curl -y
 curl -sL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
 sudo apt install nodejs -y
 
+sudo npm install npm@latest -global
+
 echo -e "\n\n\nNode.js and npm has been installed\n\n\n"
