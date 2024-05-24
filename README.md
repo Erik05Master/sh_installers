@@ -4,7 +4,7 @@
 
 ## Usage
 
-    chmod 777 <name>_installer.sh
+    chmod +x <name>_installer.sh
     ./<name>_installer.sh
 
 
