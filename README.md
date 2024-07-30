@@ -1,5 +1,7 @@
 # Sh Installers
 
+# Project has moved to https://sh.r3tr0.eu
+
  **Sh Installers is a collection of installation programs to install various things.**
 
 ## Usage
